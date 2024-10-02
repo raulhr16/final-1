@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://final-public.onrender.com"
 title        = "Raulhr"
 languageCode = "es"
 theme        = "hello-friend-ng"
